@@ -2,11 +2,12 @@
 
 /**
  * main - causes an infinite loop
- * Return:0
+ * Return: 0
  */
-int mai(void)
+
+int main(void)
 {
-	int i;
+int i;
 
 printf("Infinite loop incoming :(\n");
 
